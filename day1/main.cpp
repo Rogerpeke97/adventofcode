@@ -4,7 +4,7 @@
 #include <vector>
 #include <algorithm>
 #include <iterator>
-#include<list> 
+#include <list> 
 
 //Part 1
 // int main(){

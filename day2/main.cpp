@@ -59,8 +59,6 @@ void outcomeOfPlay (std::string opponentPlay, std::string playerPlay, int *total
 };
 
 int main(){
-  ROCK_PAPER_SCISSORS rockPaperScissors;
-  POINTS points;
   std::ifstream aocInputTxt("./input.txt");
   int totalPlayerScore = 0;
   if(aocInputTxt.is_open()){
